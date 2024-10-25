@@ -82,7 +82,12 @@ int main(){
 
 ## OUTPUT:
 
-<img width="432" alt="image" src="https://github.com/user-attachments/assets/b0c61ff9-5c6a-46b6-b128-ff36aaa865aa">
+How many elements in your array ?
+3
+Enter 3 Elements:
+1 3 2 
+Sorted Array:1 2 3 
+
 
 ## 2.Insertion sort:
 ~~~
@@ -120,7 +125,9 @@ int main(){
 
 ## OUTPUT:
 
-<img width="446" alt="image" src="https://github.com/user-attachments/assets/8abaf9b3-5155-4f0f-bc06-88772f71b316">
+Original array: 64 25 12 22 11 
+ Sorted array: 11 12 22 25 64 
+
 
 ## 3.Bubble sort:
 ~~~
@@ -165,8 +172,11 @@ int main(){
 ~~~
 
 ## OUTPUT:
-
-<img width="427" alt="image" src="https://github.com/user-attachments/assets/cd24b0ee-f12b-4cc0-a908-0ed44769af24">
+How many elements in the array?:4
+ Enter elements: 32 23 12 54 
+32 23 12 54 
+Sorted array is: 
+12 23 32 54 
 
 ## CONCLUSION:
 These algorithms are primarily useful for educational purposes, and while they work well on small datasets, more advanced sorting algorithms such as Quick Sort, Merge Sort, or Heap Sort are generally preferred for large datasets due to their better performance.
