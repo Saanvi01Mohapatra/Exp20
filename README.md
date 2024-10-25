@@ -35,9 +35,9 @@ In C++, sorting refers to the process of arranging elements in a specific order,
 
 ## 1.Selection sort:
 ~~~
-//Name: Srihari Nair
-//Prn: 23070123131
-//Class: EnTC B-2
+// Name: Saanvi
+// PRN: 23070123110
+// Class: EnTC B-2
 #include<iostream>
 using namespace std;
 void swap(int *a,int *b){
@@ -86,9 +86,9 @@ int main(){
 
 ## 2.Insertion sort:
 ~~~
-//Name: Srihari Nair
-//Prn: 23070123131
-//Class: EnTC B-2
+// Name: Saanvi
+// PRN: 23070123110
+// Class: EnTC B-2
 #include<iostream>
 using namespace std;
 void insertionSort(int arr[], int n ){
@@ -124,9 +124,9 @@ int main(){
 
 ## 3.Bubble sort:
 ~~~
-//Name: Saanvi Moha
-//Prn: 23070123131
-//Class: EnTC B-2
+// Name: Saanvi
+// PRN: 23070123110
+// Class: EnTC B-2
 #include<iostream>
 using namespace std;
 void swap(int *a,int *b){
