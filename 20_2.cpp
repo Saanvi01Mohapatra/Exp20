@@ -1,6 +1,6 @@
-//Name: Saaj Mulik
-//Prn: 23070123109
-//Class: EnTC B-2
+// Name: Saanvi
+// PRN: 23070123110
+// Class: EnTC B-2
 #include<iostream>
 using namespace std;
 void insertionSort(int arr[], int n ){
